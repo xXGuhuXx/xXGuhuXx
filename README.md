@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXGuhuXx
 - 👀 I’m interested in ... Python, Java, Media Servers, Games
-- 🌱 I’m currently learning ... Python and how to use Docker
+- 🌱 I’m currently learning ... Scala
 - 📫 How to reach me ... Just use githubs features 
 
 <!---
